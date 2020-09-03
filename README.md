@@ -62,3 +62,6 @@ Değerlendirmelerle ilgili sorularınızı [emre@digitarc.net](mailto:emre@digit
 ### Lisans
 
 [Apache 2.0](LICENSE) ile lisanslanmıştır.
+
+[SETUR](https://github.com/setur/assessment-frontend/)
+
