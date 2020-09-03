@@ -56,7 +56,7 @@ Değerlendirme dahilinde; en kısa süre içerisinde aşağıda kapsamı ve deta
 
 ## Sorularınız
 
-Değerlendirmelerle ilgili sorularınızı [emre@digitarc.net](mailto:emre@digitarc.net) adresine iletebilirsiniz.
+Değerlendirmelerle ilgili sorularınızı [contact@digitarc.net](mailto:contact@digitarc.net) adresine iletebilirsiniz.
 
 
 ### Lisans
