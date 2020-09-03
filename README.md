@@ -4,7 +4,7 @@
 
 Bu değerlendirme işe başvuru sürecindeki adaylar için hazırlanmış olup, katılacak kimselerin yaklaşım ve yetkinliklerini değerlendirmede bizlere yardımcı olmak için tasarlanmıştır.
 
-Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve detayları belirlenmiş projeyi tamamlamanızı beklemekteyiz. Dikkat edebileceğiniz bir diğer husus ise, bizlerin doğru bir değerlendirme yapmamıza yardımcı olacak şekilde iletebileceğiniz en iyi çalışmayı bizlere teslim ediyor olmanız.
+Değerlendirme dahilinde; en kısa süre içerisinde aşağıda kapsamı ve detayları belirlenmiş projeyi tamamlamanızı beklemekteyiz. Dikkat edebileceğiniz bir diğer husus ise, bizlerin doğru bir değerlendirme yapmamıza yardımcı olacak şekilde iletebileceğiniz en iyi çalışmayı bizlere teslim ediyor olmanız.
 
 
 ### Teknik Beklentiler
@@ -54,25 +54,9 @@ Değerlendirme dahilinde; belirtilen süre içerisinde aşağıda kapsamı ve de
 - Veri saklamak
 
 
-### Tasarım Kaynakları
-
-- [Zeplin'deki Tasarım Kitimiz](https://zpl.io/scene/blqd46k)
-
-
-### Nasıl başlanabilir?
-
-Bir react tabanı oluşturarak başlayabilirsiniz. Alternatiflerinizi hatırlatmak gerekirse:
-
-- [sample/](sample/) klasörü altındaki kodu kullanmak,
-- `create-react-app` kullanmak,
-- [darty-react-app](https://github.com/eserozvataf/darty-react-app) gibi bir boilerplate kullanmak,
-
-Ardından bu codebase'i bir git repository'sine aktarmanız, çalışma bitiminde de bu repository adresiyle paylaşmanız gerekecek.
-
-
 ## Sorularınız
 
-Değerlendirmelerle ilgili sorularınızı [github@setur.com.tr](mailto:github@setur.com.tr) adresine iletebilirsiniz.
+Değerlendirmelerle ilgili sorularınızı [emre@digitarc.net](mailto:emre@digitarc.net) adresine iletebilirsiniz.
 
 
 ### Lisans
